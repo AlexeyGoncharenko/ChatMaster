@@ -1,0 +1,224 @@
+2016.05.31
+Connect to DB: success
+1 Login1 Name1
+2 Login2 Name2
+3 Login3 Name3
+21 Login 4 Name 4
+22 Login 5 Name 5
+23 Login 6 Name 6
+24 Login 7 Name 7
+25 Login 8 Name 8
+26 Login 9 Name 9
+27 Login 10 Name 10
+ERROR:[SQLITE_CONSTRAINT]  Abort due to constraint violation (UNIQUE constraint failed: Main.NAME)
+1 Login1 Name1
+2 Login2 Name2
+3 Login3 Name3
+21 Login 4 Name 4
+22 Login 5 Name 5
+23 Login 6 Name 6
+24 Login 7 Name 7
+25 Login 8 Name 8
+26 Login 9 Name 9
+======================2016.06.03======================
+[16:06:50] Connect to DB: success
+[16:06:50] 1 Login1 Name1
+[16:06:50] 2 Login2 Name2
+[16:06:50] 3 Login3 Name3
+[16:06:50] 4 Login 4 Name 4
+[16:06:50] 5 Login 5 Name 5
+[16:06:50] 23 Login 6 Name 6
+[16:06:50] 24 Login 7 Name 7
+[16:06:50] 25 Login 8 Name 8
+[16:06:50] 26 Login 9 Name 9
+[16:06:50] 27 Login 10 Name 10
+[16:06:50] ERROR:[SQLITE_CONSTRAINT]  Abort due to constraint violation (UNIQUE constraint failed: Main.NAME)
+[16:06:50] 1 Login1 Name1
+[16:06:50] 2 Login2 Name2
+[16:06:50] 3 Login3 Name3
+[16:06:50] 4 Login 4 Name 4
+[16:06:50] 5 Login 5 Name 5
+[16:06:50] 23 Login 6 Name 6
+[16:06:50] 24 Login 7 Name 7
+[16:06:50] 25 Login 8 Name 8
+[16:06:50] 26 Login 9 Name 9
+[16:06:50] 27 Login 10 Name 10
+[16:06:10] sdfsadf
+[16:06:12] sdfsadf
+[16:06:13] sadfsadf
+======================2016.06.03======================
+[16:06:3] Connect to DB: success
+[16:06:4] 1 Login1 Name1
+[16:06:4] 2 Login2 Name2
+[16:06:4] 3 Login3 Name3
+[16:06:4] 4 Login 4 Name 4
+[16:06:4] 5 Login 5 Name 5
+[16:06:4] 23 Login 6 Name 6
+[16:06:4] 24 Login 7 Name 7
+[16:06:4] 25 Login 8 Name 8
+[16:06:4] 26 Login 9 Name 9
+[16:06:4] 27 Login 10 Name 10
+[16:06:4] ERROR:[SQLITE_CONSTRAINT]  Abort due to constraint violation (UNIQUE constraint failed: Main.NAME)
+[16:06:4] 1 Login1 Name1
+[16:06:4] 2 Login2 Name2
+[16:06:4] 3 Login3 Name3
+[16:06:4] 4 Login 4 Name 4
+[16:06:4] 5 Login 5 Name 5
+[16:06:4] 23 Login 6 Name 6
+[16:06:4] 24 Login 7 Name 7
+[16:06:4] 25 Login 8 Name 8
+[16:06:4] 26 Login 9 Name 9
+[16:06:4] 27 Login 10 Name 10
+======================2019.04.24======================
+[01:04:25] Connect to DB: success
+[01:04:25] 1 Login1 Name1 
+[01:04:25] 2 Login2 Name2 
+[01:04:25] 3 Login3 Name3 
+[01:04:25] 4 Login 4 Name 4 
+[01:04:25] 5 Login 5 Name 5 
+[01:04:25] 23 Login 6 Name 6 
+[01:04:25] 24 Login 7 Name 7 
+[01:04:25] 25 Login 8 Name 8 
+[01:04:25] 26 Login 9 Name 9 
+[01:04:25] 27 Login 10 Name 10 
+[01:04:25] ERROR:[SQLITE_CONSTRAINT]  Abort due to constraint violation (UNIQUE constraint failed: Main.NAME)
+[01:04:25] 1 Login1 Name1 
+[01:04:25] 2 Login2 Name2 
+[01:04:25] 3 Login3 Name3 
+[01:04:25] 4 Login 4 Name 4 
+[01:04:25] 5 Login 5 Name 5 
+[01:04:25] 23 Login 6 Name 6 
+[01:04:25] 24 Login 7 Name 7 
+[01:04:25] 25 Login 8 Name 8 
+[01:04:25] 26 Login 9 Name 9 
+[01:04:25] 27 Login 10 Name 10 
+======================2019.04.24======================
+[01:04:16] Connect to DB: success
+[01:04:16] 1 Login1 Name1 
+[01:04:16] 2 Login2 Name2 
+[01:04:16] 3 Login3 Name3 
+[01:04:16] 4 Login 4 Name 4 
+[01:04:16] 5 Login 5 Name 5 
+[01:04:16] 23 Login 6 Name 6 
+[01:04:16] 24 Login 7 Name 7 
+[01:04:16] 25 Login 8 Name 8 
+[01:04:16] 26 Login 9 Name 9 
+[01:04:16] 27 Login 10 Name 10 
+[01:04:16] ERROR:[SQLITE_CONSTRAINT]  Abort due to constraint violation (UNIQUE constraint failed: Main.NAME)
+[01:04:16] 1 Login1 Name1 
+[01:04:16] 2 Login2 Name2 
+[01:04:16] 3 Login3 Name3 
+[01:04:16] 4 Login 4 Name 4 
+[01:04:16] 5 Login 5 Name 5 
+[01:04:16] 23 Login 6 Name 6 
+[01:04:16] 24 Login 7 Name 7 
+[01:04:16] 25 Login 8 Name 8 
+[01:04:16] 26 Login 9 Name 9 
+[01:04:16] 27 Login 10 Name 10 
+[01:04:26] test
+[01:04:32] тест
+[01:04:38] exit
+[01:04:51] Connet to DB SQLite
+[01:04:2] text
+[01:04:10] test
+[01:04:21] very strange
+[01:04:36] what's about time?
+[01:04:2] I think it's something wrong with time presentation...
+[01:04:37] Hey! What's up!? How's everything going?
+[01:04:39] exit
+[01:04:54] exit again... =)
+======================2019.08.12======================
+[15:08:10] ERROR:No suitable driver found for //db/jdbc:sqlite:ChatMasterDB.db
+[15:08:10] Connect to DB: fail
+[15:08:2] tesyt
+======================2019.08.12======================
+[15:08:26] ERROR:No suitable driver found for db/jdbc:sqlite:ChatMasterDB.db
+[15:08:26] Connect to DB: fail
+======================2019.08.12======================
+[15:08:16] Connect to DB: success
+[15:08:16] 1 Login1 Name1 
+[15:08:16] 2 Login2 Name2 
+[15:08:16] 3 Login3 Name3 
+[15:08:16] 4 Login 4 Name 4 
+[15:08:16] 5 Login 5 Name 5 
+[15:08:16] 23 Login 6 Name 6 
+[15:08:16] 24 Login 7 Name 7 
+[15:08:16] 25 Login 8 Name 8 
+[15:08:16] 26 Login 9 Name 9 
+[15:08:16] 27 Login 10 Name 10 
+[15:08:16] ERROR:[SQLITE_CONSTRAINT]  Abort due to constraint violation (UNIQUE constraint failed: Main.NAME)
+[15:08:16] 1 Login1 Name1 
+[15:08:16] 2 Login2 Name2 
+[15:08:16] 3 Login3 Name3 
+[15:08:16] 4 Login 4 Name 4 
+[15:08:16] 5 Login 5 Name 5 
+[15:08:16] 23 Login 6 Name 6 
+[15:08:16] 24 Login 7 Name 7 
+[15:08:16] 25 Login 8 Name 8 
+[15:08:16] 26 Login 9 Name 9 
+[15:08:16] 27 Login 10 Name 10 
+======================2019.08.12======================
+[15:08:50] Connect to DB: success
+[15:08:50] 1 Login1 Name1 
+[15:08:50] 2 Login2 Name2 
+[15:08:50] 3 Login3 Name3 
+[15:08:50] 4 Login 4 Name 4 
+[15:08:50] 5 Login 5 Name 5 
+[15:08:50] 6 Login 6 Name 6 
+[15:08:50] 7 Login 7 Name 7 
+[15:08:50] 8 Login 8 Name 8 
+[15:08:50] 9 Login 9 Name 9 
+[15:08:50] 10 Login 10 Name 10 
+[15:08:50] ERROR:[SQLITE_CONSTRAINT]  Abort due to constraint violation (UNIQUE constraint failed: Main.NAME)
+[15:08:50] 1 Login1 Name1 
+[15:08:50] 2 Login2 Name2 
+[15:08:50] 3 Login3 Name3 
+[15:08:50] 4 Login 4 Name 4 
+[15:08:50] 5 Login 5 Name 5 
+[15:08:50] 6 Login 6 Name 6 
+[15:08:50] 7 Login 7 Name 7 
+[15:08:50] 8 Login 8 Name 8 
+[15:08:50] 9 Login 9 Name 9 
+[15:08:50] 10 Login 10 Name 10 
+======================2019.08.12======================
+[16:08:24] Connect to DB: success
+[16:08:33] test
+======================2019.08.12======================
+[16:08:28] Connect to DB: success
+[16:08:28] 28 Login 1 Name 1 
+[16:08:28] 29 Login 2 Name 2 
+[16:08:28] 30 Login 3 Name 3 
+[16:08:28] 31 Login 4 Name 4 
+[16:08:28] 32 Login 5 Name 5 
+[16:08:28] 33 Login 6 Name 6 
+[16:08:28] 34 Login 7 Name 7 
+[16:08:28] 35 Login 8 Name 8 
+[16:08:28] 36 Login 9 Name 9 
+[16:08:28] 37 Login 10 Name 10 
+[16:08:28] ERROR:[SQLITE_CONSTRAINT]  Abort due to constraint violation (UNIQUE constraint failed: Main.NAME)
+======================2019.08.12======================
+[16:08:6] Connect to DB: success
+[16:08:6] 28 Login 1 Name 1 
+[16:08:6] 29 Login 2 Name 2 
+[16:08:6] 30 Login 3 Name 3 
+[16:08:6] 31 Login 4 Name 4 
+[16:08:6] 32 Login 5 Name 5 
+[16:08:6] 33 Login 6 Name 6 
+[16:08:6] 34 Login 7 Name 7 
+[16:08:6] 35 Login 8 Name 8 
+[16:08:6] 36 Login 9 Name 9 
+[16:08:6] 37 Login 10 Name 10 
+[16:08:10] ERROR:[SQLITE_CONSTRAINT]  Abort due to constraint violation (UNIQUE constraint failed: Main.NAME)
+======================2019.08.12======================
+[16:08:44] Connect to DB: success
+[16:08:44] 28 Login 1 Name 1 
+[16:08:44] 29 Login 2 Name 2 
+[16:08:44] 30 Login 3 Name 3 
+[16:08:44] 31 Login 4 Name 4 
+[16:08:44] 32 Login 5 Name 5 
+[16:08:44] 33 Login 6 Name 6 
+[16:08:44] 34 Login 7 Name 7 
+[16:08:44] 35 Login 8 Name 8 
+[16:08:44] 36 Login 9 Name 9 
+[16:08:44] 37 Login 10 Name 10 
+[16:08:27] ERROR:[SQLITE_CONSTRAINT]  Abort due to constraint violation (UNIQUE constraint failed: Main.NAME)

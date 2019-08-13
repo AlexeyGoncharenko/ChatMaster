@@ -1,2 +1,4 @@
 # ChatMaster
-Simple chat-app
+## Simple chat-app
+![Skin Logo](docs/skin.jpg)
+
